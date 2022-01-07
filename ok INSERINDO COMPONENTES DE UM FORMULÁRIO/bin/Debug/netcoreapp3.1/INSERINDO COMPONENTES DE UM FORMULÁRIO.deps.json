@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "INSERINDO COMPONENTES DE UM FORMULÁRIO/1.0.0": {
+        "runtime": {
+          "INSERINDO COMPONENTES DE UM FORMULÁRIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INSERINDO COMPONENTES DE UM FORMULÁRIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
